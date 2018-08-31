@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <video controls height="300px" width="300px">
+      <source src="oppo.mp4" type="video/mp4">
+    </video>
+    </body>
+</html>
